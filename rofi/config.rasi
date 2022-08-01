@@ -1,0 +1,11 @@
+/** Basic config file **/
+
+configuration {
+  show-icons:         true;
+  icon-theme:         "candy-icons";
+}
+
+//@theme "/usr/share/rofi/themes/lb.rasi"
+//@theme "/usr/share/rofi/themes/lb.rasi"
+//@theme "/usr/share/rofi/themes/rofi_launch.rasi"
+@theme "/usr/share/rofi/themes/rofi_launch.rasi"
