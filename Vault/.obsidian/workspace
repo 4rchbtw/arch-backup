@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "7e4a3bbe62baf94c",
+    "type": "split",
+    "children": [
+      {
+        "id": "40cd04284aa55503",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "grub config.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "39e1eccb78a44f8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c5f61e06d01a71b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a426bf19ba46fd4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c9c96d0c2e764ad7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1b20a59ea19baef3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "86d0138a7356c9bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "cab42d036d8c3e4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9058dd9c5113a69",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "grub config.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2aef77981f10bf2b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "grub config.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "83d2ed57e725c73c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "950ee26b8d2d9607",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "grub config.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "40cd04284aa55503",
+  "lastOpenFiles": [
+    "Software.md",
+    "Arch  Notes.md"
+  ]
+}
