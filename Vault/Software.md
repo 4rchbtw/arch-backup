@@ -18,6 +18,6 @@ ranger
 rofi
 filezilla
 yay
-
+p7zip-gui
 VictorMonoFonts
 
